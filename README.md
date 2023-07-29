@@ -1,3 +1,8 @@
 # CS50
 
-yolooooo
+The beginning of my journey in the world of programming
+
+##links
+
+https://github.com/JackeLeMort/CS50.git
+
